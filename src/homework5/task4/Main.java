@@ -5,19 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scannerSum = new Scanner(System.in);
-
         Scanner scannerContinue = new Scanner(System.in);
-
-//        System.out.println("Введите кол-во товаров");
-//        int productsNumber = scanner.nextInt();
-//
-//        int[] products = new int[productsNumber];
-//        int productNumber = 0;
-//        while (productNumber < products.length) {
-//            System.out.println("Введите стоимость товара " + (productNumber + 1));
-//            products[productNumber] = scanner.nextInt();
-//            productNumber++;
-//        }
 
         int checkSum = 0;
         double totalSum = 0;
